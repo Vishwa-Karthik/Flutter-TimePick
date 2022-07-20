@@ -1,16 +1,14 @@
-# pick_time
+# Pick Time Widget in Flutter & Dart
 
-A new Flutter project.
+### Simple use case of Date-Time picker from Flutter and Dart
 
-## Getting Started
+## Result
+<p>
+<img src="https://github.com/Vishwa-Karthik/Flutter-TimePick/blob/master/1.png" width=200 height=400 /> 
+ 
+<img src="https://github.com/Vishwa-Karthik/Flutter-TimePick/blob/master/2.png" width=200 height=400 />
+ 
+<img src="https://github.com/Vishwa-Karthik/Flutter-TimePick/blob/master/3.png" width=200 height=400 />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
